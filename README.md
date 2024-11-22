@@ -103,9 +103,56 @@
 
 
 
+## 🌍 Projects
 
-## Check out My Projects
-[![Project](https://img.shields.io/badge/Project-Click_me-brightgreen?style=flat&logo=github)](https://github.com/noushad999)
+I have worked on several projects, including:
+
+- **Hackathon Valley**: A platform designed for organizing online hackathons and coding events. Aimed at providing developers a space to showcase their skills.
+- **Train Management System (SQL Project)**: A database-driven project designed to optimize train scheduling and resource allocation.
+- **SME Business Management Platform**: A web-based solution tailored for small and medium-sized businesses in Bangladesh, focusing on streamlining operations and enhancing business processes.
+- **AI-Based Smart Agriculture System**: A machine learning-based system that helps farmers optimize crop yield by predicting the best planting times and detecting diseases in crops.
+- **Personal Portfolio Website**: A dynamic website showcasing my skills, projects, and achievements. Built using HTML, CSS (Tailwind), and JavaScript (React) to demonstrate modern web design practices.
+- **E-commerce Platform (Django & React)**: A fully functional e-commerce site with features such as product listing, cart management, and order tracking, developed using **Django** for the back-end and **React** for the front-end.
+- **Smart City Management System**: A platform designed to optimize urban resource management, including smart traffic monitoring, energy usage tracking, and waste management systems, integrating IoT and AI technologies.
+- **Fitness Tracking App (React Native)**: A mobile app built with **React Native** to track daily physical activities, set goals, and analyze performance, with a focus on providing real-time feedback to users.
+- **Real-Time Chat Application (WebSocket & Node.js)**: A full-stack web application that allows users to communicate in real-time, built with **Node.js** and **WebSocket** to ensure fast and efficient message delivery.
+- **Automated Resume Builder**: A Python-based project that generates professional resumes from user input. The resumes are customizable and exportable to PDF format.
+- **Cybersecurity Awareness Website**: A platform dedicated to educating people about online security practices, built with a combination of **HTML**, **CSS**, **JavaScript**, and **WordPress** for content management.
+
+
+### **Inspirational Quotes from Islamic Scholars**
+
+> **"The ink of the scholar is more precious than the blood of the martyr."**  
+> — **Prophet Muhammad (PBUH)**, **Sunan Ibn Majah**  
+> This reminds me that knowledge is a powerful tool that transcends even the most heroic sacrifices. It motivates me to keep learning and sharing knowledge.
+
+> **"Acquire knowledge and teach it to the people. Learn dignity and tranquility, and live with them."**  
+> — **Imam Ali (RA)**  
+> This aligns with my goal to educate others and spread awareness through my tech projects and online content.
+
+> **"Seek knowledge from the cradle to the grave."**  
+> — **Prophet Muhammad (PBUH)**  
+> A reminder that learning should never stop. Whether I'm working on **Machine Learning**, **AI**, or **Web Development**, I will continue to grow and evolve.
+
+> **"The best of people are those who are most beneficial to others."**  
+> — **Prophet Muhammad (PBUH)**  
+> I am inspired to build technologies that help solve real-world problems, contributing positively to society.
+
+> **"He who does not learn from his mistakes is a fool."**  
+> — **Imam Shafi’i**  
+> This is a lesson I take to heart in my coding journey, learning from every bug and every challenge.
+
+> **"A person’s true wealth is the good he does in the world."**  
+> — **Prophet Muhammad (PBUH)**  
+> I aspire to use my skills for the greater good, creating tech solutions that have a lasting impact.
+
+> **"Knowledge is not what is memorized. Knowledge is what benefits."**  
+> — **Imam Malik (RA)**  
+> This quote reminds me that practical application of knowledge is more valuable than mere theory.
+
+> **"Take benefit of five before five: your youth before your old age, your health before your sickness, your wealth before your poverty, your free time before your work, and your life before your death."**  
+> — **Imam Ali (RA)**  
+> A reminder to make the most of my time and resources, balancing my growth, learning, and giving back to the community.
 
 
 <h3 align="center">☕ Support Me:</h3>
