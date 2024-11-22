@@ -22,7 +22,7 @@
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/its_noushad" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/dev.png" alt="Dev.to" width="40" />
+   <img class="site-logo__img" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV Community" width="40" />
   </a>
   <a href="https://twitter.com/md_noushad__" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40" />
