@@ -3,12 +3,7 @@
 </div>
 
 
-<h2 align="center">Coding Activity Graph</h2>
-<p align="center">
-  <a href="https://github.com/noushad999/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=noushad999&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Activity Graph" />
-  </a>
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Noushad</h1>
@@ -86,6 +81,13 @@
 
 ---
 
+<h2 align="center">Coding Activity Graph</h2>
+<p align="center">
+  <a href="https://github.com/noushad999/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=noushad999&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Activity Graph" />
+  </a>
+</p>
+---
 <h3 align="center">☕ Support Me:</h3>
 <p align="center">
   <a href="https://buymeacoffee.com/noushad999" target="_blank">
