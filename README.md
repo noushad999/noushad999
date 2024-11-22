@@ -1,7 +1,7 @@
 > [!WARNING]
 > The ink of the scholar is more sacred than the blood of the martyr
 > ― ***Prophet Muhammad (PBUH)***
-
+> **Sunan Ibn Majah, Book 1, Hadith 226**
 
 
 ![GitHub followers](https://img.shields.io/github/followers/noushad999?style=social)
