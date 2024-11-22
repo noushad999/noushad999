@@ -97,9 +97,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/noushad999?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/noushad999?style=social)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding" width="600" height="400" />
-</div>
 
 
 ## Check out My Projects
