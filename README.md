@@ -107,3 +107,9 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
+
+
+## Din
+
+![My Animated Bio](https://github.com/noushad999/noushad999/raw/main/dino.gif)
+
