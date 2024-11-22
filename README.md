@@ -2,6 +2,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding" width="600" height="400" />
 </div>
 
+<h2 align="center">Coding Activity Graph</h2>
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=noushad999&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Noushad</h1>
 <h3 align="center">🚀 A passionate developer from Bangladesh 🌍</h3>
 
