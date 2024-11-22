@@ -109,7 +109,7 @@
 </p>
 
 
-## Din
+## 
 
 ![My Animated Bio](https://github.com/noushad999/noushad999/raw/main/dino.gif)
 
