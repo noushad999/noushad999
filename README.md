@@ -1,3 +1,12 @@
+<div class="warning-quote">
+    <span class="emoji">⚠️</span>
+    <h2>Warning</h2>
+    <p>"The key to success is sacrifice; to gain something of great value, you must be willing to give something in return. This is the principle of Equivalent Exchange."</p>
+    <p>― <strong>Alphonse Elric</strong></p>
+</div>
+
+
+
 ![GitHub followers](https://img.shields.io/github/followers/noushad999?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/noushad999?style=social)
 
