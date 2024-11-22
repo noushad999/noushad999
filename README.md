@@ -54,6 +54,10 @@
 
 ---
 
+![GitHub followers](https://img.shields.io/github/followers/noushad999?style=social)
+![GitHub stars](https://img.shields.io/github/stars/noushad999?style=social)
+
+
 <h3 align="center">💻 Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
