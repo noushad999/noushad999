@@ -10,7 +10,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Noushad</h1>
-<h3 align="center">🚀 A passionate developer from Bangladesh 🌍</h3>
+<div class="animated-text">
+  <p class="intro">Hello, I am Noushad</p>
+  <p class="interests">Interested in: front-end, back-end, full-stack, React, Next.js, ML, AI, Cybersecurity, Robotics</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noushad999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
