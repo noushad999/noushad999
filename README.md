@@ -7,9 +7,6 @@
 
 
 
-
-
-<h1 align="center">Hi 👋, I'm Noushad</h1>
 <div class="animated-text">
   <p class="intro">Hello, I am Noushad</p>
   <p class="interests">Interested in: front-end, back-end, full-stack, React, Next.js, ML, AI, Cybersecurity, Robotics</p>
