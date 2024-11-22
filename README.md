@@ -3,7 +3,7 @@
 > ― ***Prophet Muhammad (PBUH)***
 > 
 > **Sunan Ibn Majah, Book 1, Hadith 226**
-
+---
 
 ![GitHub followers](https://img.shields.io/github/followers/noushad999?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/noushad999?style=social)
@@ -12,13 +12,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding" width="600" height="400" />
 </div>
 
-
+---
 
 <div class="animated-text">
   <p class="intro">Hello, I am Noushad</p>
   <p class="interests">Interested in: front-end, back-end, full-stack, React, Next.js, ML, AI, Cybersecurity, Robotics</p>
 </div>
-
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noushad999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -42,6 +42,7 @@
 
 - **Bachelor of Science in Computer Science & Engineering**  
   University of Asia Pacific, Dhaka, Bangladesh | Expected Graduation: 2026
+---
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
