@@ -12,7 +12,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding" width="600" height="400" />
 </div>
 
----
 
 <div class="animated-text">
   <p class="intro">Hello, I am Noushad</p>
