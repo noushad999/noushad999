@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding" width="600" height="400" />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noushad999&theme=tokyo-night)
-
 
 <h2 align="center">Coding Activity Graph</h2>
 <p align="center">
