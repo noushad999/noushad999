@@ -19,6 +19,7 @@
   <p class="interests">Interested in: front-end, back-end, full-stack, React, Next.js, ML, AI, Cybersecurity, Robotics</p>
 </div>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noushad999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/md_noushad__" target="_blank">
@@ -36,6 +37,11 @@
 - 📫 Reach me at **contactwithnoushad@gmail.com**  
 
 ---
+
+## 📚 Education
+
+- **Bachelor of Science in Computer Science & Engineering**  
+  University of Asia Pacific, Dhaka, Bangladesh | Expected Graduation: 2026
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
@@ -118,6 +124,15 @@ I have worked on several projects, including:
 - **Real-Time Chat Application (WebSocket & Node.js)**: A full-stack web application that allows users to communicate in real-time, built with **Node.js** and **WebSocket** to ensure fast and efficient message delivery.
 - **Automated Resume Builder**: A Python-based project that generates professional resumes from user input. The resumes are customizable and exportable to PDF format.
 - **Cybersecurity Awareness Website**: A platform dedicated to educating people about online security practices, built with a combination of **HTML**, **CSS**, **JavaScript**, and **WordPress** for content management.
+
+## 🚀 Skills
+
+- **Languages**: HTML, CSS (Tailwind), JavaScript, Python, SQL, C, C++, Java
+- **Frameworks/Technologies**: React, Django, Next.js, Node.js, Flask, Django Rest Framework
+- **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, Pandas, Numpy
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Cloud & DevOps**: AWS, Docker, Kubernetes
+- **Tools**: Git, GitHub, VS Code, Jupyter Notebook, PyCharm
 
 
 ### **Inspirational Quotes from Islamic Scholars**
