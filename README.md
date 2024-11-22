@@ -6,10 +6,6 @@
 >
 > ― ***Alphonse Elric***
 
----
-
-<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
-
 
 
 ![GitHub followers](https://img.shields.io/github/followers/noushad999?style=social)
