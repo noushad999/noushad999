@@ -12,11 +12,22 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding" width="600" height="400" />
 </div>
 
+---
+## 👋 Hello, I am Noushad
 
-<div class="animated-text">
-  <p class="intro">Hello, I am Noushad</p>
-  <p class="interests">Interested in: front-end, back-end, full-stack, React, Next.js, ML, AI, Cybersecurity, Robotics</p>
-</div>
+🚀 A passionate developer from Bangladesh, interested in building amazing things in the world of **technology**.
+
+### 👨‍💻 My Interests:
+- Front-end Development
+- Back-end Development
+- Full-stack Development
+- React.js, Next.js
+- Machine Learning (ML)
+- Artificial Intelligence (AI)
+- Cybersecurity
+- Robotics
+
+
 ---
 
 <p align="center">
