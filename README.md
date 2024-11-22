@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding" width="600" height="400" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Noushad</h1>
 <h3 align="center">🚀 A passionate developer from Bangladesh 🌍</h3>
 
