@@ -9,7 +9,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/noushad999?style=social)
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" width="600" height="400" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" height="400"/>
 </div>
 
 ---
