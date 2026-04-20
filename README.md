@@ -3,20 +3,26 @@
 
 ---
 
-<h1 align="center">Md Noushad Jahan Ramim</h1>
+<div align="center">
 
-<p align="center">
-  <b>Computer Science & Engineering · University of Asia Pacific, Dhaka</b><br/>
-  AI/ML Engineer · Full-Stack Developer · Civic Tech Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Noushad+%F0%9F%91%8B;AI+%2F+ML+Engineer;Full-Stack+Developer;Civic+Tech+Builder+%F0%9F%8C%8F;Building+AI+for+good)](https://git.io/typing-svg)
+
+# Md Noushad Jahan Ramim
+
+**Computer Science & Engineering · University of Asia Pacific, Dhaka**  
+AI/ML Engineer · Full-Stack Developer · Civic Tech Builder
+
+<p>
+  <a href="https://linkedin.com/in/md-noushad-jahan-ramim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:contactwithnoushad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/md_noushad__"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://dev.to/its_noushad"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://medium.com/@noushadpfs"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-noushad-jahan-ramim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contactwithnoushad@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/md_noushad__"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
-  <a href="https://dev.to/its_noushad"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white"/></a>
-  <a href="https://medium.com/@noushadpfs"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=noushad999&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 ---
 
@@ -82,3 +88,15 @@ Currently focused on **applied ML, backend systems, and AI for social good.**
   <i>"Seek knowledge from the cradle to the grave."</i><br/>
   <sub>— Prophet Muhammad (PBUH)</sub>
 </p>
+
+---
+
+## GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noushad999/noushad999/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noushad999/noushad999/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/noushad999/noushad999/output/github-contribution-grid-snake.svg">
+</picture>
+
+> To activate the snake, add the GitHub Action from [platane/snk](https://github.com/Platane/snk) to your repo.
