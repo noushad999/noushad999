@@ -30,7 +30,6 @@ AI/ML Engineer · Full-Stack Developer · Civic Tech Builder
 
 I'm a final-year CSE student at University of Asia Pacific, Dhaka, building at the intersection of **AI, full-stack development, and civic technology**. I'm deeply interested in how intelligent systems can address real urban challenges — particularly in rapidly growing cities like Dhaka.
 
-I've served as a **judge at Impact Dhaka 2026** (organized by Cognisor AI at BUET), evaluating AI-driven solutions to Bangladesh's urban problems. I believe the most meaningful technology is built where societal need and technical depth meet.
 
 Currently focused on **applied ML, backend systems, and AI for social good.**
 
